@@ -1,4 +1,5 @@
 # <platformer>
-    Deployed
-    [deployed](https://matteothomas.github.io/platformer/)
-    [GitHub](http://github.com)
+    
+Deployed    
+[deployed](https://matteothomas.github.io/platformer/)
+[GitHub](http://github.com)
