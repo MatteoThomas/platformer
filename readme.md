@@ -1,2 +1,2 @@
 # <platformer>
-    https://matteothomas.github.io/platformer/
+    [deployed](https://matteothomas.github.io/platformer/)
