@@ -1,5 +1,5 @@
 # <platformer>
     
-Deployed    
-[deployed](https://matteothomas.github.io/platformer/)
+  
+[Platformer](https://matteothomas.github.io/platformer/)
 
